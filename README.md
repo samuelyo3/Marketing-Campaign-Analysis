@@ -37,16 +37,21 @@ The analysis was guided by key business questions, including:
 - 
 ## Insights
 - Channel Performance
+
   Facebook had the highest marketing cost but delivered the lowest ROI.
-  Pinterest was the most profitable and efficient channel, achieving an ROI of £21.5 at a much lower cost.
-  Instagram offered a balance between reach and profitability, making it a strong complementary channel.
+
+Pinterest was the most profitable and efficient channel, achieving an ROI of £21.5 at a much lower cost.
+
+Instagram offered a balance between reach and profitability, making it a strong complementary channel.
 
 - Regional Performance
-  Manchester and Birmingham outperformed London in profitability.
-  London campaigns incurred higher costs but generated lower returns.
+Manchester and Birmingham outperformed London in profitability.
+
+London campaigns incurred higher costs but generated lower returns.
 
 - Ad Type Performance
 Collection ads achieved stronger engagement (likes, shares, CTR).
+
 Discount ads drove higher profit and conversion rates.
 - Seasonal Trend
 Revenue remained steady from March to August, then surged from September to November, peaking in November.
