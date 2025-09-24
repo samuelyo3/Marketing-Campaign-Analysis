@@ -62,16 +62,16 @@ The analysis was guided by key business questions, including:
 
 - Reallocate Budget:
 
-Shift a portion of spend from Facebook to Pinterest (profitability) and Instagram (reach + balance).
+  Shift a portion of spend from Facebook to Pinterest (profitability) and Instagram (reach + balance).
 
-Improve content quality on Pinterest to boost engagement while retaining profitability.
+  Improve content quality on Pinterest to boost engagement while retaining profitability.
 
 - Regional Focus:
 
-Run more campaigns in Manchester and Birmingham, where returns are higher.
+  Run more campaigns in Manchester and Birmingham, where returns are higher.
 
 Reassess spend allocation in London.
 
 - Ad Strategy:
 
-Balance Collection ads (for engagement) with Discount ads (for profitability) to maximize overall impact.
+  Balance Collection ads (for engagement) with Discount ads (for profitability) to maximize overall impact.
