@@ -57,4 +57,21 @@ The analysis was guided by key business questions, including:
 - Seasonal Trend
 
   Revenue remained steady from March to August, then surged from September to November, peaking in November.
-  
+
+## Recommendations
+
+- Reallocate Budget:
+
+Shift a portion of spend from Facebook to Pinterest (profitability) and Instagram (reach + balance).
+
+Improve content quality on Pinterest to boost engagement while retaining profitability.
+
+- Regional Focus:
+
+Run more campaigns in Manchester and Birmingham, where returns are higher.
+
+Reassess spend allocation in London.
+
+- Ad Strategy:
+
+Balance Collection ads (for engagement) with Discount ads (for profitability) to maximize overall impact.
